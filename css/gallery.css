@@ -24,6 +24,11 @@ font-size: 150%;
     margin-left:17%;
 border: 10px solid black;
 }
+
+.preview:focus {
+    outline: 2px solid blue; /* Destaque para imagens em foco */
+}
+
 img{
     width:95%;
 }
